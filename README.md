@@ -1,6 +1,7 @@
 # Hey there! 👋
 
-<img src="C:\Users\Rahul\Downloads\2.png">
+<img src="C:\Users\Rahul\Downloads\2.png"><br>
+
 ![Supriya's github stats](https://github-readme-stats.vercel.app/api?username=supriyasinhaa&show_icons=true&theme=radical)
 <br>
 You can connect with me on:
