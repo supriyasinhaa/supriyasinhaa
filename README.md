@@ -5,7 +5,7 @@
 ![Supriya's github stats](https://github-readme-stats.vercel.app/api?username=supriyasinhaa&show_icons=true&theme=radical)
 <br>
 >## Currently, I am working on an open source project called ONLINE JOB PORTAL in Build with LetsUpgrade community.
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=supriyasinhaa&repo=github-readme-stats)](https://github.com/supriyasinhaa/ONLINE-JOB-PORTAL.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=supriyasinhaa&repo=github-readme-stats)](https://github.com/supriyasinhaa/ONLINE-JOB_PORTAL)
 <br>
 >## You can connect with me on:
 <!--<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">--->
