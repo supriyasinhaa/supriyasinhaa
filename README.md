@@ -4,7 +4,7 @@ I am a web developer, content writer as well as beginner in UI designing.
 <br>
 🔭 I’m currently working on opensource project ONLINE JOB PORTAL at Build with LetsUpgrade.
 <br>
-<!--[![Supriya's github stats](https://github-readme-stats.vercel.app/api?username=supriyasinhaa)](https://github.com/supriyasinhaa/github-readme-stats)-->
+[![Supriya's github stats](https://github-readme-stats.vercel.app/api?username=supriyasinhaa)](https://github.com/supriyasinhaa/github-readme-stats)
 [![Supriya's github stats](https://github-readme-stats.vercel.app/api?username=supriyasinhaa&show_icons=true&theme=radical)
 <br>
 You can connect with me on:
