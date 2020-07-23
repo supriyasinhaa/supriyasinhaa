@@ -1,8 +1,5 @@
-# Hey there! 👋 I'm Supriya
-<br>
-I am a web developer, content writer as well as beginner in UI designing. 
-<br>
-🔭 I’m currently working on an opensource project ONLINE JOB PORTAL at Build with LetsUpgrade. <br>
+# Hey there! 👋
+
 
 ![Supriya's github stats](https://github-readme-stats.vercel.app/api?username=supriyasinhaa&show_icons=true&theme=radical)
 <br>
