@@ -21,3 +21,6 @@
 
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
