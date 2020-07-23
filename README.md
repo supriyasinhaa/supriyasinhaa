@@ -4,9 +4,6 @@
 >## My GitHub Stats:
 ![Supriya's github stats](https://github-readme-stats.vercel.app/api?username=supriyasinhaa&show_icons=true&theme=radical)
 <br>
-<!-->## Currently, I am working on an open source project called ONLINE JOB PORTAL in Build with LetsUpgrade community.
-[![ReadMe Card]<img src="(https://ONLINE-JOB-PORTAL/?username=supriyasinhaa&repo=github-readme-stats)](https://github.com/supriyasinhaa/ONLINE-JOB-PORTAL)-->
-<br>
 >## You can connect with me on:
 <!--<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">--->
 <a href= "https://www.facebook.com/supriyasinha26.03"><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
