@@ -3,7 +3,7 @@
 <br>
 * 🔭 I’m currently working on an open source project <a href="https://github.com/supriyasinhaa/ONLINE-JOB-PORTAL">ONLINE JOB PORTAL</a>
 * 🌱 I’m currently learning Python and Backend framework.
-* 👯 I’m looking for collaboration on an open source projects.
+* 👯 I’m looking for collaboration on open source projects.
 * 💬 Ask me about anything <a href="https://www.linkedin.com/in/supriyasinhaa">here</a>.
 <br>
 
