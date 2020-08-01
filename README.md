@@ -1,7 +1,5 @@
 # Hey there, I'm Supriya ! 👋
-
 I am a Web Developer, Content Writer, UI Designer.
-
 <br>
 * 🔭 I’m currently working on an open source project <a href="https://github.com/supriyasinhaa/ONLINE-JOB-PORTAL">ONLINE JOB PORTAL</a>
 * 🌱 I’m currently learning Python and Backend framework.
