@@ -1,5 +1,4 @@
 # Hey there, I'm Supriya ! 👋
-
 <br>
 * 🔭 I’m currently working on an open source project <a href="https://github.com/supriyasinhaa/ONLINE-JOB-PORTAL">ONLINE JOB PORTAL</a>
 * 🌱 I’m currently learning Python and Backend framework.
