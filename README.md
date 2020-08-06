@@ -6,6 +6,11 @@
 * 💬 Ask me about anything <a href="https://www.linkedin.com/in/supriyasinhaa">here</a>.
 <br>
 
+>### Most Used languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriyasinhaa&layout=compact&theme=tokyonight)](https://github.com/supriyasinhaa)
+<br>
+
 >### My GitHub Stats:
 ![Supriya's github stats](https://github-readme-stats.vercel.app/api?username=supriyasinhaa&show_icons=true&theme=radical)
 <br>
