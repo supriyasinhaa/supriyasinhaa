@@ -6,7 +6,7 @@
 * 💬 Ask me about anything <a href="https://www.linkedin.com/in/supriyasinhaa">here</a>.
 <br>
 
->### Most Used languages:
+>### Languages which I usually prefer, though it's not limited to this:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriyasinhaa&layout=compact&theme=tokyonight)](https://github.com/supriyasinhaa)
 <br>
