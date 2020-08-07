@@ -31,8 +31,8 @@
 >### Hobbies:
 * ✨ Listening Music
 * ✨ Watching Kdrama
-* ✨ Reading Light Novels
-* ✨ Badminton (Neighbourhood Professional XD)
+* ✨ Reading Novels
+* ✨ Badminton
 
 <!--# Blog posts
 <!-- BLOG-POST-LIST:START -->
