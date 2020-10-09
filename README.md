@@ -8,7 +8,7 @@
 * ⚙️ I'm learning all about: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Python](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
 * 🚀 I also use and work:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -42,9 +42,6 @@
 
 >### You can connect with me on:
 <p align="center">
-<a href="https://discord.gg/">
-  <img alt="Supriya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 <a href="https://twitter.com/supriyasinhaa">
   <img alt="Supriya Sinha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
