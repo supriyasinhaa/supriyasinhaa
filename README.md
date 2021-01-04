@@ -21,11 +21,11 @@
 * ⚡ Fun fact: Internet users blink less than usual.
 <br>
 
->### Hobbies:
+<!--->### Hobbies:
 * ✨ Listening Music
 * ✨ Watching Kdrama
 * ✨ Reading Novels
-* ✨ Badminton
+* ✨ Badminton--->
 
 <!--# Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -55,5 +55,3 @@
   <img alt="Supriya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a></p>
 <br>
-
-
