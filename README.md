@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=supriyasinhaa.supriyasinhaa) 
 [![Github](https://img.shields.io/github/followers/supriyasinhaa?label=Follow&style=social)](https://github.com/supriyasinhaa)
 
-* 🔭 I’m currently working on an open source project <a href="https://github.com/supriyasinhaa/ONLINE-JOB-PORTAL">ONLINE JOB PORTAL</a>
+* 🔭 I’m recently worked on an open source project <a href="https://github.com/supriyasinhaa/ONLINE-JOB-PORTAL">ONLINE JOB PORTAL</a>
 * 🌱 I’m exploring myself in UI and App Development.
 * ⚙️ I'm learning all about: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
