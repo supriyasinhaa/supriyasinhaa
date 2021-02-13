@@ -6,9 +6,9 @@
 * 🔭 I recently worked on an open source project <a href="https://github.com/supriyasinhaa/ONLINE-JOB-PORTAL">ONLINE JOB PORTAL</a>
 * 🌱 I’m exploring myself in UI and App Development.
 * ⚙️ I'm learning all about: 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)-->
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+<!--![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)-->
 * 🚀 I also use and work:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
